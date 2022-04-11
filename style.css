@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  align-items: center;
+}
